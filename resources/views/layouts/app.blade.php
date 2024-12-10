@@ -176,7 +176,7 @@
         </div>
       </header>
       <!-- Swiper-->
-      <section class="section swiper-container swiper-slider swiper-classic bg-black-2" data-loop="true" data-autoplay="4000" data-simulate-touch="false" data-slide-effect="fade">
+      <section class="section swiper-container swiper-slider swiper-classic bg-white-2" data-loop="true" data-autoplay="4000" data-simulate-touch="false" data-slide-effect="fade">
         <div class="swiper-wrapper">
           <div class="swiper-slide text-center" data-slide-bg="images/slider-1-slide-1-1920x671.jpg">
             <div class="container">
@@ -512,7 +512,7 @@ Veja a tragedia que pode acontecer</a></h3>
                           <div class="badge badge-red">hot<span class="icon mdi mdi-fire"></span>
                           </div>
                           <div class="post-future-time"><span class="icon mdi mdi-clock"></span>
-                            <time datetime="2020">April 15, 2020</time>
+                            <time datetime="2020">20 Novembro, 2024</time>
                           </div>
                         </div>
                         <hr/>
@@ -859,10 +859,10 @@ Veja a tragedia que pode acontecer</a></h3>
                                       <!-- Awards Item-->
                                       <div class="awards-item"> 
                                         <div class="awards-item-main">
-                                          <h4 class="awards-item-title"><span class="text-accent">World</span>Champions
+                                          <h4 class="awards-item-title"><span class="text-accent">Best</span>Time
                                           </h4>
                                           <div class="divider"></div>
-                                          <h5 class="awards-item-time">December 2014</h5>
+                                          <h5 class="awards-item-time">Dezembro 2024</h5>
                                         </div>
                                         <div class="awards-item-aside"> <img src="images/thumbnail-minimal-1-67x147.png" alt="" width="67" height="147"/>
                                         </div>
@@ -870,10 +870,10 @@ Veja a tragedia que pode acontecer</a></h3>
                                       <!-- Awards Item-->
                                       <div class="awards-item"> 
                                         <div class="awards-item-main">
-                                          <h4 class="awards-item-title"><span class="text-accent">Best</span>Forward
+                                          <h4 class="awards-item-title"><span class="text-accent">Best</span>Jogador
                                           </h4>
                                           <div class="divider"></div>
-                                          <h5 class="awards-item-time">June 2015</h5>
+                                          <h5 class="awards-item-time">Dezembro 2024</h5>
                                         </div>
                                         <div class="awards-item-aside"> <img src="images/thumbnail-minimal-2-68x126.png" alt="" width="68" height="126"/>
                                         </div>
@@ -881,10 +881,10 @@ Veja a tragedia que pode acontecer</a></h3>
                                       <!-- Awards Item-->
                                       <div class="awards-item"> 
                                         <div class="awards-item-main">
-                                          <h4 class="awards-item-title"><span class="text-accent">Best</span>Coach
+                                          <h4 class="awards-item-title"><span class="text-accent">Best</span>Treinador
                                           </h4>
                                           <div class="divider"></div>
-                                          <h5 class="awards-item-time">November 2016</h5>
+                                          <h5 class="awards-item-time">Dezembro 2024</h5>
                                         </div>
                                         <div class="awards-item-aside"> <img src="images/thumbnail-minimal-3-73x135.png" alt="" width="73" height="135"/>
                                         </div>
@@ -1075,7 +1075,7 @@ Veja a tragedia que pode acontecer</a></h3>
                       <li><a class="icon icon-corporate fa fa-google-plus" href="#"></a></li>
                       <li><a class="icon icon-corporate fa fa-instagram" href="#"></a></li>
                     </ul>
-                  </div><a class="button button-sm button-gray-outline" href="contact-us.html">Get in Touch</a>
+                  </div><a class="button button-sm button-gray-outline" href="contact-us.html">Não aperte aqui</a>
                 </div>
               </div>
               <div class="col-lg-7">
@@ -1088,12 +1088,12 @@ Veja a tragedia que pode acontecer</a></h3>
                             <div class="post-classic-aside"><a class="post-classic-figure" href="#"><img src="images/footer-soccer-post-1-93x87.jpg" alt="" width="93" height="87"/></a></div>
                             <div class="post-classic-main">
                               <!-- Badge-->
-                              <div class="badge badge-secondary">The Team
+                              <div class="badge badge-secondary">Corinthians
                               </div>
                               <p class="post-classic-title"><a href="https://www.espn.com.br/futebol/artigo/_/id/14548279/yuri-alberto-garante-permanencia-no-corinthians-em-2025">Artilheiro do Brasil, Yuri Alberto garante permanência no Corinthians em 2025
                               </a></p>
                               <div class="post-classic-time"><span class="icon mdi mdi-clock"></span>
-                                <time datetime="2020">April 15, 2020</time>
+                                <time datetime="2020">10 Janeiro, 2025</time>
                               </div>
                             </div>
                           </article>
@@ -1108,7 +1108,7 @@ Veja a tragedia que pode acontecer</a></h3>
                               </div>
                               <p class="post-classic-title"><a href="https://www.espn.com.br/futebol/santos/artigo/_/id/14548213/marcelo-teixeira-explica-desistencia-do-santos-acordo-com-luis-castro-nao-podia-esperar">'Santos não podia esperar': Marcelo Teixeira explica desistência de acordo com Luis Castro</a></p>
                               <div class="post-classic-time"><span class="icon mdi mdi-clock"></span>
-                                <time datetime="2020">April 15, 2020</time>
+                                <time datetime="2020">11 Novembro, 2024</time>
                               </div>
                             </div>
                           </article>
@@ -1123,7 +1123,7 @@ Veja a tragedia que pode acontecer</a></h3>
                               </div>
                               <p class="post-classic-title"><a href="#">Ancelotti descarta saída de Endrick do Real Madrid e explica falta de espaço a jovem no clube</a></p>
                               <div class="post-classic-time"><span class="icon mdi mdi-clock"></span>
-                                <time datetime="2020">April 15, 2020</time>
+                                <time datetime="2020">26 Novembro, 2024</time>
                               </div>
                             </div>
                           </article>
@@ -1138,7 +1138,7 @@ Veja a tragedia que pode acontecer</a></h3>
                               </div>
                               <p class="post-classic-title"><a href="#">Árbitro da Premier League que xingou Liverpool e Klopp é demitido e tem contrato de trabalho rescindido</a></p>
                               <div class="post-classic-time"><span class="icon mdi mdi-clock"></span>
-                                <time datetime="2020">April 15, 2020</time>
+                                <time datetime="2020">05 Dezembro, 2024</time>
                               </div>
                             </div>
                           </article>
@@ -1152,15 +1152,15 @@ Veja a tragedia que pode acontecer</a></h3>
           <div class="container">
             <div class="layout-justify">
               <!-- Rights-->
-              <p class="rights"><span>Sportland</span><span>&nbsp;&copy;&nbsp;</span><span class="copyright-year"></span><span>.&nbsp;</span><span>Designed by <a href="https://www.templatemonster.com/products/author/zemez/">Zemez.</a></span></p>
+              <p class="rights"><span>Futebolisticos</span><span>&nbsp;&copy;&nbsp;</span><span class="copyright-year"></span><span>.&nbsp;</span><span>Direitos Reservados a <a href="https://www.templatemonster.com/products/author/zemez/">Márcio de Orobó</a></span></p>
               <nav class="nav-minimal">
                 <ul class="nav-minimal-list">
-                  <li class="active"><a href="index.html">Home</a></li>
-                  <li><a href="#">Features</a></li>
-                  <li><a href="#">Statistics</a></li>
-                  <li><a href="#">Team</a></li>
-                  <li><a href="#">News</a></li>
-                  <li><a href="#">Shop</a></li>
+                  <li class="active"><a href="index.html">Inicio</a></li>
+                  <li><a href="#">Noticias</a></li>
+                  <li><a href="#"></a></li>
+                  <li><a href="#"></a></li>
+                  <li><a href="#"></a></li>
+                  <li><a href="#"></a></li>
                 </ul>
               </nav>
             </div>
